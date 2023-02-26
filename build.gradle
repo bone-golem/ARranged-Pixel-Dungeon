@@ -11,8 +11,8 @@ buildscript {
 allprojects {
 
     ext {
-        appName = 'ARranged bone Pixel Dungeon'
-        appPackageName = 'com.arrangedpixel.arrangedbonepixeldungeon'
+        appName = 'ARranged Pixel Dungeon'
+        appPackageName = 'com.arrangedpixel.arrangedpixeldungeon'
 
         appVersionCode = 708
         appVersionName = '1.4.3_based_2.46.0'
