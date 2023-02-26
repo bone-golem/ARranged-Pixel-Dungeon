@@ -343,7 +343,7 @@ public enum HeroClass {
 		new ScrollOfRage().identify().collect();
 		new	ScrollOfTeleportation().identify().collect();
 		new ScrollOfTerror().identify().collect();
-		new ScrollOfTransmutation().identify().collect();
+		new ScrollOfTransmutation().identify().quantity(5).collect();
 		new ScrollOfRecharging().identify().collect();
 		new ScrollOfRetribution().identify().collect();
 	}
